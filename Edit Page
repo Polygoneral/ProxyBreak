@@ -1,0 +1,3 @@
+// Edit your current page (resets on reload)
+
+javascript:document.body.contentEditable = 'true';document.designMode = 'on';void 0
